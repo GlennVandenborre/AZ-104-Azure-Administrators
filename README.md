@@ -12,6 +12,6 @@ This course will consist of 5 chapters:
 5. Monitor & Backup Azure resources
 
 This is of course a kick-off as this platform continues to grow.
-Feedback on improvements if much appreciated!
+Feedback on improvements is much appreciated!
 
 You can reach me via LinkedIn here: https://www.linkedin.com/in/glenn-vandenborre-696545155/
