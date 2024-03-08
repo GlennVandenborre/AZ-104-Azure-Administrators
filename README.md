@@ -1,4 +1,4 @@
-# AZ-104-Azure-Administrators
+# AZ-104 Azure Administrator
 
 This course is meant for Azure learners who want to achieve the AZ-104 Azure Administrator certification.
 I tend to inspire, aid and support people through my learning journey and share my insights and experiences within Azure.
