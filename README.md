@@ -2,7 +2,7 @@
 
 This course is meant for Azure learners who want to achieve the AZ-104 Azure Administrator certification.
 I tend to inspire, aid and support people through my learning journey and share my insights and experiences within Azure.
-For this particular course, you can find all the materials in depth via the Wiki tab or by clicking on following link: https://github.com/GlennVandenborre/AZ-104-Azure-Administrators/wiki
+For this particular course, you can find all the materials in depth via the Wiki tab of this repository or by clicking on following link: https://github.com/GlennVandenborre/AZ-104-Azure-Administrators/wiki
 
 This course will consist of 5 chapters:
 1. Identities & Governance in Azure
